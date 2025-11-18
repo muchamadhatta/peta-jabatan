@@ -36,7 +36,7 @@ $summaryStats = DataJabatan::getSummaryStatistics();
 
             <div class="content-section">
                 <div class="stats-summary">
-                    <h3>📊 Ringkasan Statistik Jabatan tes</h3>
+                    <h3>📊 Ringkasan Statistik Jabatan</h3>
                     <div class="stats-grid">
                         <div class="stat-item">
                             <div class="label">Total Formasi (B)</div>
